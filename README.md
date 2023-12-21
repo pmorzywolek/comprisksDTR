@@ -1,5 +1,5 @@
 # comprisksDTR
-R code replicating the data analysis from our paper "On Estimation and Cross–validation of Dynamic Treatment Regimes with Competing Risks" (https://arxiv.org/abs/2109.00396) on a synthetic data set from the R package ltmle [[1]](#1). The data set has been modified to include a competing event (see data preparation part in the R code).
+R code replicating the data analysis from our paper "On Estimation and Cross–validation of Dynamic Treatment Regimes with Competing Risks" (https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9568) on a synthetic data set from the R package ltmle [[1]](#1). The data set has been modified to include a competing event (see data preparation part in the R code).
 
 
 
